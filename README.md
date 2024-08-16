@@ -1,7 +1,5 @@
 # TicketSystem Document
 
-> [SJTU CS1951 课程大作业](https://github.com/ACMClassCourse-2021/TicketSystem)
-
 ## Version
 
 3.1
